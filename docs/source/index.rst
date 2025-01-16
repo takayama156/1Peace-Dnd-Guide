@@ -25,7 +25,6 @@ Contents
 --------
 
 .. toctree::
-:caption: ngawi
 
    usage
    api
