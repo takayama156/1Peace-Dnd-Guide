@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Meet Part #4 DnD Maxxing'
+copyright = '2024, 1Peace'
+author = 'Everyone'
 
 release = '0.1'
 version = '0.1.0'
