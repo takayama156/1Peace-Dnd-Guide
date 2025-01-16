@@ -25,6 +25,11 @@ Contents
 --------
 
 .. toctree::
+   :caption: Table of Contents
+   :numbered: 3
+   :maxdepth: 4
+   :hidden:
+   :includehidden:
 
    usage
    api
