@@ -13,50 +13,28 @@ Seluruh konsekuensi dari pilihan kalian di tentukan oleh dadu antara berhasil at
 
 Ada beberapa class yang bisa dipilih
 
-.. highlight:: bash
-   :linenothreshold: 1
-
-Paladin,
-Barbarian,
-Fighter,
-Druid,
-Bard,
-Rogue,
-Sorcerer,
-Wizard,
-Cleric,
-Warlock
-
-.. highlight:: none
+.. literalinclude:: list/kelas.rsti
+   :end-before: .. Local variables:
+   :language: rst
+   :linenos:
 
 Dan ada 9 pilihan ras yang bisa dipilih dengan keunggulan masing masing
 
-.. highlight:: bash
-   :linenothreshold: 1
-
-1. Manusia
-2. Tiefling
-3. Halfling
-4. Dwarf
-5. Half orc
-6. Half elf
-7. Elf
-8. Dragonborn
-9. GNOME
-
-.. highlight:: none
+.. literalinclude:: list/ras.rsti
+   :end-before: .. Local variables:
+   :language: rst
+   :linenos:
 
 Ada beberapa pilihan quest 
 
-.. highlight:: bash
-   :linenothreshold: 1
+.. literalinclude:: list/pilihan.rsti
+   :end-before: .. Local variables:
+   :language: rst
+   :linenos:
 
-1 Quest
-2 quest
-3 quest
-Campaign
+Campaign dimana seperti game kalian akan menjelajahi seluruh map yang sudah di berikan oleh dungeon master akan tetapi playing time nya juga akan lama 
 
-.. highlight:: none
+Untuk spell dan weapon itu adalah playing style, kalian boleh build segimana pun character kalian.
 
 .. toctree::
    :caption: Memulai
