@@ -58,5 +58,4 @@ Campaign
 .. toctree::
    :caption: Memulai
 
-   Definisi
    Class
