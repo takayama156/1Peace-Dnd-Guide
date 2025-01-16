@@ -61,4 +61,4 @@ Campaign
 .. toctree::
    :caption: Memulai
 
-   Class
+   class
