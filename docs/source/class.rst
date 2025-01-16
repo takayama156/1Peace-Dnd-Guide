@@ -1,34 +1,15 @@
-Usage
+Kelas
 =====
 
-.. _installation:
+Dalam Dungeons & Dragons (D&D), class adalah peran atau profesi karakter yang menentukan kemampuan, gaya bermain, dan keahlian mereka. Setiap class memiliki ciri khas unik, seperti:
 
-Installation
-------------
+.. csv-table:: Example CSV table with customized delimiter
+   :name: tables-csv-delim-example
+   :header: "Name", "Password"
+   :widths: auto
+   :delim: :
+   :align: center
+   :width: 60%
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+   "Peter":":literal:`QW8rTn@*emk;=J3f`"
+   "Paul":":literal:`b3%C/-9\`][cnG,;{`"
