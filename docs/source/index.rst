@@ -9,7 +9,7 @@ DND memerlukan dadu d20-d4 (bisa dicari di google roll dice).
 
 .. note::
 
-Seluruh konsekuensi dari pilihan kalian di tentukan oleh dadu antara berhasil atau tidak
+   Seluruh konsekuensi dari pilihan kalian di tentukan oleh dadu antara berhasil atau tidak
 
 Ada beberapa class yang bisa dipilih
 
