@@ -25,11 +25,7 @@ Contents
 --------
 
 .. toctree::
-   :caption: Table of Contents
-   :numbered: 3
-   :maxdepth: 4
-   :hidden:
-   :includehidden:
+   :caption: Memulai
 
    usage
    api
