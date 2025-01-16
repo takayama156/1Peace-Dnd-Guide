@@ -14,6 +14,7 @@ Seluruh konsekuensi dari pilihan kalian di tentukan oleh dadu antara berhasil at
 Ada beberapa class yang bisa dipilih
 
 .. highlight:: bash
+   :linenothreshold: 1
 
 Paladin,
 Barbarian,
@@ -31,6 +32,7 @@ Warlock
 Dan ada 9 pilihan ras yang bisa dipilih dengan keunggulan masing masing
 
 .. highlight:: bash
+   :linenothreshold: 1
 
 1. Manusia
 2. Tiefling
@@ -47,6 +49,7 @@ Dan ada 9 pilihan ras yang bisa dipilih dengan keunggulan masing masing
 Ada beberapa pilihan quest 
 
 .. highlight:: bash
+   :linenothreshold: 1
 
 1 Quest
 2 quest
