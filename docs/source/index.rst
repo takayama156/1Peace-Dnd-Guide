@@ -40,3 +40,4 @@ Untuk spell dan weapon itu adalah playing style, kalian boleh build segimana pun
    :caption: Memulai
 
    class
+   webgl
